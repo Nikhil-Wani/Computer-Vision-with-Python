@@ -13,16 +13,6 @@ pip install numpy
 pip install matplotlib
 
 
-
-Learn about the data and image types unique to OpenCV.
-
-find out how to manipulate pixels and images.
-
-Then comes the real power of OpenCV: object, facial, and feature detection.
-
-Learn how to leverage the image-processing power of OpenCV using methods like template matching and machine learning data to identify and recognize features.
-
-
 # Resources
 
 Homepage: https://opencv.org
