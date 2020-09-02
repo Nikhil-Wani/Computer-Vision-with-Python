@@ -1,10 +1,18 @@
 # OpenCV-for-Python-Developers
 
-OpenCV is an open-source toolkit for advanced computer vision. It is one of the most popular tools for facial recognition, used in a wide variety of security, marketing, and photography applications, and it powers a lot of cutting-edge tech, including augmented reality and robotics.
+OpenCV is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human. When it is integrated with various libraries, such as Numpy which is a highly optimized library for numerical operations, then the number of weapons increases in your Arsenal i.e whatever operations one can do in Numpy can be combined with OpenCV.
 
-introduction to OpenCV 3
+# Starting with installing and configuring.
 
-starting with installing and configuring.
+Inorder to do this, some external libraries are required to install :
+
+pip install opencv-python
+
+pip install numpy
+
+pip install matplotlib
+
+
 
 Learn about the data and image types unique to OpenCV.
 
@@ -13,3 +21,18 @@ find out how to manipulate pixels and images.
 Then comes the real power of OpenCV: object, facial, and feature detection.
 
 Learn how to leverage the image-processing power of OpenCV using methods like template matching and machine learning data to identify and recognize features.
+
+
+# Resources
+
+Homepage: https://opencv.org
+
+Courses: https://opencv.org/courses
+
+Docs: https://docs.opencv.org/master/
+
+Q&A forum: http://answers.opencv.org
+
+Issue tracking: https://github.com/opencv/opencv/issues
+
+Additional OpenCV functionality: https://github.com/opencv/opencv_contrib
