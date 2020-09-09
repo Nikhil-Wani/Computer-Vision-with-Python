@@ -6,11 +6,11 @@ OpenCV is a huge open-source library for computer vision, machine learning, and 
 
 Inorder to do this, some external libraries are required to install :
 
-pip install opencv-python
+<code>pip install opencv-python</code>
 
-pip install numpy
+<code>pip install numpy</code>
 
-pip install matplotlib
+<code>pip install matplotlib</code>
 
 
 # Resources
